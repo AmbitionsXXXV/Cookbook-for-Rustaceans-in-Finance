@@ -7,7 +7,7 @@ export default defineConfig({
     starlight({
       title: 'Cookbook for Rustaceans in Finance / Rust 量化金融开发指南',
       social: {
-        github: 'https://github.com/withastro/starlight'
+        github: 'https://github.com/arthur19q3/Cookbook-for-Rustaceans-in-Finance'
       },
       sidebar: [
         {
